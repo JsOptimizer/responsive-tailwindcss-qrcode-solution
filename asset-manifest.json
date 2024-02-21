@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/responsive-tailwindcss-qrcode-solution/static/css/main.0fbc1ccc.css",
+    "main.js": "/responsive-tailwindcss-qrcode-solution/static/js/main.3cd90947.js",
+    "static/js/453.86742b18.chunk.js": "/responsive-tailwindcss-qrcode-solution/static/js/453.86742b18.chunk.js",
+    "index.html": "/responsive-tailwindcss-qrcode-solution/index.html",
+    "main.0fbc1ccc.css.map": "/responsive-tailwindcss-qrcode-solution/static/css/main.0fbc1ccc.css.map",
+    "main.3cd90947.js.map": "/responsive-tailwindcss-qrcode-solution/static/js/main.3cd90947.js.map",
+    "453.86742b18.chunk.js.map": "/responsive-tailwindcss-qrcode-solution/static/js/453.86742b18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fbc1ccc.css",
+    "static/js/main.3cd90947.js"
+  ]
+}
